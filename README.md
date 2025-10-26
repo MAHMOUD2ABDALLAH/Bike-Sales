@@ -1,3 +1,5 @@
+<img width="100" height="70" alt="upwork" align="right" src="https://github.com/user-attachments/assets/bcf8a252-69a7-4a38-bddf-f26797b0983b" />
+
 # Rented Bike Count Regression Report
 
 This report outlines the steps taken to preprocess data, analyze features, and apply various regression techniques to predict bike rental counts. The goal is to understand the impact of different features and models on the prediction accuracy.
