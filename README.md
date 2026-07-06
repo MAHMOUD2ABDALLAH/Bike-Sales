@@ -1,5 +1,3 @@
-<img width="100" height="70" alt="upwork" align="right" src="https://github.com/user-attachments/assets/bcf8a252-69a7-4a38-bddf-f26797b0983b" />
-
 # Rented Bike Count Regression Report
 
 This report outlines the steps taken to preprocess data, analyze features, and apply various regression techniques to predict bike rental counts. The goal is to understand the impact of different features and models on the prediction accuracy.
@@ -165,11 +163,14 @@ def plotGraph(y_train, y_pred_train, rand):
     plt.title(rand)
     plt.show()
 ```
-<img width="392" alt="VIS" src="https://github.com/user-attachments/assets/59943f95-5150-41e1-be29-2f130562ca86" />
+<img width="400" alt="VIS" src="https://github.com/user-attachments/assets/59943f95-5150-41e1-be29-2f130562ca86" />
 
 
 This graph helped in analyzing how well the model performed in comparison to actual data.
 
 ---
 This report provides a comprehensive overview of the preprocessing steps, feature analysis, and regression techniques applied to the bike rental dataset. The **Random Forest Regressor** emerged as the most effective model for this prediction task.
+
+<img width="100" height="100" alt="Upwork" src="https://github.com/user-attachments/assets/e6e21f02-6edb-4754-a011-502d385af8fc" />
+
 
