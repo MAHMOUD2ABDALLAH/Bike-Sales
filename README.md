@@ -171,6 +171,6 @@ This graph helped in analyzing how well the model performed in comparison to act
 ---
 This report provides a comprehensive overview of the preprocessing steps, feature analysis, and regression techniques applied to the bike rental dataset. The **Random Forest Regressor** emerged as the most effective model for this prediction task.
 
-<img width="100" height="100" alt="Upwork" src="https://github.com/user-attachments/assets/e6e21f02-6edb-4754-a011-502d385af8fc" />
+<img src="https://github.com/user-attachments/assets/43d8da7a-8c02-42f5-a367-eb83b90d078c" alt="Upwork Logo" width="50" />
 
 
